@@ -1,6 +1,8 @@
 # IAW
 ejercicio clase
 
+TABLA DE COMPAÑEROS
+
 | Nombre          | Apellidos       | Usuario de GitHub | Repositorio IAW                            |
 |-----------------|-----------------|-------------------|--------------------------------------------|
 | Mellisa         | Mellisa         | @melii1206        | [IAW-2](https://github.com/melii1206/IAW-2)|
